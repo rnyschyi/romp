@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+.btn {
+  margin-right: 10px;
+  color: #ffffff;
+  padding: 9px 0;
+  background-color: #7493fe;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
+  i {
+    font-size: 14px;
+    padding: 11px;
+    background-color: #5f7ce3;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
+  }
+  span {
+    padding: 7px 10px;
+  }
+  &.pressed {
+    background-color: #5f7ce3;
+  }
+  &.disabled {
+    color: #b8bbc7;
+  }
+}

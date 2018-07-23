@@ -1,0 +1,22 @@
+{
+  "name": "skillup_june",
+  "version": "1.0.0",
+  "description": "My first NPM project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rnyschyi/romp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rnyschyi/romp/issues"
+  },
+  "homepage": "https://github.com/rnyschyi/romp#readme",
+  "devDependencies": {
+    "bootstrap-grid-light": "^1.1.0"
+  }
+}
